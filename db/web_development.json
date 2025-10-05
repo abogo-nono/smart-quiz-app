@@ -1,0 +1,49 @@
+{
+  "title": "Web Development Quiz",
+  "description": "Test your knowledge of HTML, CSS, and JavaScript",
+  "duration": 240,
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "answers": [
+        "1. Hyper Text Markup Language",
+        "2. High Tech Modern Language",
+        "3. Home Tool Markup Language",
+        "4. Hyperlink and Text Markup Language"
+      ],
+      "answer": 1,
+      "hints": {
+        "correct": "Perfect! HTML stands for Hyper Text Markup Language.",
+        "fail": "Not quite! HTML stands for Hyper Text Markup Language."
+      }
+    },
+    {
+      "question": "Which CSS property is used to change the background color?",
+      "answers": [
+        "1. color",
+        "2. background-color",
+        "3. bgcolor",
+        "4. background"
+      ],
+      "answer": 2,
+      "hints": {
+        "correct": "Correct! The 'background-color' property sets the background color in CSS.",
+        "fail": "Try again! Use 'background-color' to set the background color in CSS."
+      }
+    },
+    {
+      "question": "How do you write 'Hello World' in an alert box in JavaScript?",
+      "answers": [
+        "1. alertBox('Hello World');",
+        "2. msg('Hello World');",
+        "3. alert('Hello World');",
+        "4. msgBox('Hello World');"
+      ],
+      "answer": 3,
+      "hints": {
+        "correct": "Excellent! alert('Hello World'); is the correct syntax in JavaScript.",
+        "fail": "Not quite! In JavaScript, use alert('Hello World'); to show an alert box."
+      }
+    }
+  ]
+}

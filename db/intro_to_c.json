@@ -1,0 +1,49 @@
+{
+  "title": "Introduction to C Programming",
+  "description": "Test your basic knowledge of the C programming language",
+  "duration": 120,
+  "questions": [
+    {
+      "question": "What is C?",
+      "answers": [
+        "1. A programming language",
+        "2. A framework",
+        "3. A compiler",
+        "4. A machine code"
+      ],
+      "answer": 1,
+      "hints": {
+        "correct": "YessS!!! You're absolutely right. C is a programming language created around 1972 by Dennis Ritchie",
+        "fail": "Ow! that's not true, C is a programming language created around 1972 by Dennis Ritchie"
+      }
+    },
+    {
+      "question": "Who created the C programming language?",
+      "answers": [
+        "1. Linus Torvalds",
+        "2. Dennis Ritchie",
+        "3. Bjarne Stroustrup",
+        "4. James Gosling"
+      ],
+      "answer": 2,
+      "hints": {
+        "correct": "Excellent! Dennis Ritchie created C at Bell Labs in 1972.",
+        "fail": "Not quite! Dennis Ritchie created C at Bell Labs in 1972."
+      }
+    },
+    {
+      "question": "Which of the following is the correct way to declare an integer variable in C?",
+      "answers": [
+        "1. integer x;",
+        "2. int x;",
+        "3. var x;",
+        "4. x: int;"
+      ],
+      "answer": 2,
+      "hints": {
+        "correct": "Perfect! 'int x;' is the correct syntax to declare an integer variable in C.",
+        "fail": "Try again! In C, we use 'int x;' to declare an integer variable."
+      }
+    }
+  ]
+}

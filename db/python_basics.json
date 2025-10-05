@@ -1,0 +1,63 @@
+{
+  "title": "Python Programming Basics",
+  "description": "Test your understanding of Python fundamentals",
+  "duration": 180,
+  "questions": [
+    {
+      "question": "What is Python?",
+      "answers": [
+        "1. A snake",
+        "2. A high-level programming language",
+        "3. A web browser",
+        "4. An operating system"
+      ],
+      "answer": 2,
+      "hints": {
+        "correct": "Absolutely right! Python is a high-level, interpreted programming language known for its simplicity.",
+        "fail": "Not quite! Python is a high-level, interpreted programming language."
+      }
+    },
+    {
+      "question": "Which of the following is used to create a comment in Python?",
+      "answers": [
+        "1. //",
+        "2. /* */",
+        "3. #",
+        "4. <!-- -->"
+      ],
+      "answer": 3,
+      "hints": {
+        "correct": "Correct! In Python, we use # to create single-line comments.",
+        "fail": "Try again! Python uses # for comments, not the other symbols."
+      }
+    },
+    {
+      "question": "What is the correct way to create a list in Python?",
+      "answers": [
+        "1. list = (1, 2, 3)",
+        "2. list = [1, 2, 3]",
+        "3. list = {1, 2, 3}",
+        "4. list = <1, 2, 3>"
+      ],
+      "answer": 2,
+      "hints": {
+        "correct": "Perfect! Square brackets [] are used to create lists in Python.",
+        "fail": "Not quite! Lists in Python are created using square brackets []."
+      }
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "answers": [
+        "1. function",
+        "2. func",
+        "3. def",
+        "4. define"
+      ],
+      "answer": 3,
+      "hints": {
+        "correct": "Excellent! The 'def' keyword is used to define functions in Python.",
+        "fail": "Try again! Python uses the 'def' keyword to define functions."
+      }
+    }
+  ]
+}
