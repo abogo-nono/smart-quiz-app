@@ -418,7 +418,6 @@ of this software and associated documentation files...
 
 ### 🔗 Links
 
-- 📧 **Email**: [abogonono1@gmail.com](mailto:abogonono1@gmail.com)
 - 🐦 **Twitter**: [@AbogoNono](https://twitter.com/AbogoNono)
 - 💼 **LinkedIn**: [ABOGO Lincoln](https://linkedin.com/in/abogo-lincoln)
 
